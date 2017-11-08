@@ -6,4 +6,6 @@ int main(){
 	cout<<"MENGHITUNG BADAN IDEAL"<<endl;
 	cout<<"======================"<<endl;
 	cout<<"Masukkan Tinggi Badan = ";cin>>tb;
+	cout<<"Masukkan Berat Badan = ";cin>>bb;
+	
 }
